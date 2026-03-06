@@ -169,7 +169,6 @@ df['grpB_sum'] = df[grpB].sum(axis=1)   # total energy in Group B
 
 ## 🤖 Model Results
 
-> Fill in your scores after training. Placeholder rows are provided for each model.  
 > AUC = ROC-AUC score, F1 = Macro F1.
 
 ### Before Feature Engineering — Raw 47 Features
