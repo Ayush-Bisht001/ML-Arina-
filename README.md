@@ -3,11 +3,6 @@
 A complete walkthrough of data cleaning, feature engineering, and model evaluation  
 on a **43,776-row × 47-feature** binary classification dataset.
 
-
-<p align="center">
-  <img src="images/project_banner.png" width="900" alt="Project Banner"/>
-</p>
-
 ---
 
 ## 🔄 Workflow Overview
