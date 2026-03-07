@@ -3,6 +3,18 @@
 A complete walkthrough of data cleaning, feature engineering, and model evaluation  
 on a **43,776-row × 47-feature** binary classification dataset.
 
+
+<p align="center">
+  <img src="images/project_banner.png" width="900" alt="Project Banner"/>
+</p>
+
+---
+
+## 🔄 Workflow Overview
+
+<p align="center">
+  <img src="WorkFlowimg/workflow_visual.png" width="900" alt="Classifier Workflow"/>
+</p>
 ---
 
 ## 📁 Project Structure
@@ -20,10 +32,10 @@ on a **43,776-row × 47-feature** binary classification dataset.
 |                       ├──  TEST_FE.csv
 |                       ├──  TRAIN_FE.csv
 |
-├── Final Model + Result ├──  Train.ipynb
-|                        ├── FINAL.csv  
-|   
-|     
+├── Final Model ├──  Train.ipynb
+|
+├── FINAL.csv  
+|       
 └── README.md
 ```
 
